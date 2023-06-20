@@ -1,0 +1,17 @@
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\bin\Debug\net6.0-windows\determinant_calculator.exe
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\bin\Debug\net6.0-windows\determinant_calculator.deps.json
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\bin\Debug\net6.0-windows\determinant_calculator.runtimeconfig.json
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\bin\Debug\net6.0-windows\determinant_calculator.dll
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\bin\Debug\net6.0-windows\determinant_calculator.pdb
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.csproj.AssemblyReference.cache
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.Form1.resources
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.csproj.GenerateResource.cache
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.AssemblyInfoInputs.cache
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.AssemblyInfo.cs
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.dll
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\refint\determinant_calculator.dll
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.pdb
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\determinant_calculator.genruntimeconfig.cache
+C:\Users\Nick Dimarzo\Desktop\OOP2\Determinant-Calculator\determinant_calculator\obj\Debug\net6.0-windows\ref\determinant_calculator.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qVl6UjbzvjP2q+AQDLcsqiG7zjNr06dIKqHCFG59oJinOK1ExLAalJH91y8/QXfC4wxzEMBkfnMGaFltzci5PQ==",
+  "dgSpecHash": "YipppE92zx/gG22vfB27pNAFnfVVTcS6W0aEszgYWnmPFMaQ1ojPv2xw3l0CMINT7RVkAnSzbw/T+cOWrYLeZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\determinant_calculator\\determinant_calculator.csproj",
+  "projectFilePath": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\Determinant-Calculator\\determinant_calculator\\determinant_calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

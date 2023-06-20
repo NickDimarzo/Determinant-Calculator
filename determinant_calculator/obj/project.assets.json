@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\determinant_calculator\\determinant_calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\Determinant-Calculator\\determinant_calculator\\determinant_calculator.csproj",
       "projectName": "determinant_calculator",
-      "projectPath": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\determinant_calculator\\determinant_calculator.csproj",
+      "projectPath": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\Determinant-Calculator\\determinant_calculator\\determinant_calculator.csproj",
       "packagesPath": "C:\\Users\\Nick Dimarzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\determinant_calculator\\obj\\",
+      "outputPath": "C:\\Users\\Nick Dimarzo\\Desktop\\OOP2\\Determinant-Calculator\\determinant_calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -286,6 +286,7 @@
             calculate.TabIndex = 24;
             calculate.Text = "Calculate";
             calculate.UseVisualStyleBackColor = true;
+            calculate.Click += calculate_Click;
             // 
             // param__D
             // 
@@ -295,6 +296,7 @@
             param__D.Size = new Size(46, 23);
             param__D.TabIndex = 25;
             param__D.Text = "D =";
+            param__D.TextChanged += param__D_TextChanged;
             // 
             // param_Nx
             // 
@@ -304,6 +306,7 @@
             param_Nx.Size = new Size(46, 23);
             param_Nx.TabIndex = 26;
             param_Nx.Text = "Nx =";
+            param_Nx.TextChanged += param_Nx_TextChanged;
             // 
             // param_Ny
             // 
@@ -313,6 +316,7 @@
             param_Ny.Size = new Size(46, 23);
             param_Ny.TabIndex = 27;
             param_Ny.Text = "Ny =";
+            param_Ny.TextChanged += param_Ny_TextChanged;
             // 
             // param_Nz
             // 
@@ -322,6 +326,7 @@
             param_Nz.Size = new Size(46, 23);
             param_Nz.TabIndex = 28;
             param_Nz.Text = "Nz =";
+            param_Nz.TextChanged += param_Nz_TextChanged;
             // 
             // param_X
             // 
@@ -331,6 +336,7 @@
             param_X.Size = new Size(46, 23);
             param_X.TabIndex = 29;
             param_X.Text = "X =";
+            param_X.TextChanged += param_X_TextChanged;
             // 
             // param_Y
             // 
@@ -340,6 +346,7 @@
             param_Y.Size = new Size(46, 23);
             param_Y.TabIndex = 30;
             param_Y.Text = "Y =";
+            param_Y.TextChanged += param_Y_TextChanged;
             // 
             // param_Z
             // 
@@ -349,6 +356,7 @@
             param_Z.Size = new Size(46, 23);
             param_Z.TabIndex = 31;
             param_Z.Text = "Z =";
+            param_Z.TextChanged += param_Z_TextChanged;
             // 
             // Form1
             // 
