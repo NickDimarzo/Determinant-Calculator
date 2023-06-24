@@ -68,7 +68,6 @@
             param_x1.Name = "param_x1";
             param_x1.Size = new Size(33, 23);
             param_x1.TabIndex = 0;
-            param_x1.TextChanged += param_x1_TextChanged;
             // 
             // param_c1
             // 
@@ -76,7 +75,6 @@
             param_c1.Name = "param_c1";
             param_c1.Size = new Size(33, 23);
             param_c1.TabIndex = 1;
-            param_c1.TextChanged += param_c1_TextChanged;
             // 
             // param_z1
             // 
@@ -84,7 +82,6 @@
             param_z1.Name = "param_z1";
             param_z1.Size = new Size(33, 23);
             param_z1.TabIndex = 2;
-            param_z1.TextChanged += param_z1_TextChanged;
             // 
             // param_y1
             // 
@@ -92,7 +89,6 @@
             param_y1.Name = "param_y1";
             param_y1.Size = new Size(33, 23);
             param_y1.TabIndex = 3;
-            param_y1.TextChanged += param_y1_TextChanged;
             // 
             // param_c2
             // 
@@ -100,7 +96,6 @@
             param_c2.Name = "param_c2";
             param_c2.Size = new Size(33, 23);
             param_c2.TabIndex = 4;
-            param_c2.TextChanged += param_c2_TextChanged;
             // 
             // param_z2
             // 
@@ -108,7 +103,6 @@
             param_z2.Name = "param_z2";
             param_z2.Size = new Size(33, 23);
             param_z2.TabIndex = 5;
-            param_z2.TextChanged += param_z2_TextChanged;
             // 
             // param_y2
             // 
@@ -116,7 +110,6 @@
             param_y2.Name = "param_y2";
             param_y2.Size = new Size(33, 23);
             param_y2.TabIndex = 6;
-            param_y2.TextChanged += param_y2_TextChanged;
             // 
             // param_x2
             // 
@@ -124,7 +117,6 @@
             param_x2.Name = "param_x2";
             param_x2.Size = new Size(33, 23);
             param_x2.TabIndex = 7;
-            param_x2.TextChanged += param_x2_TextChanged;
             // 
             // param_c3
             // 
@@ -132,7 +124,6 @@
             param_c3.Name = "param_c3";
             param_c3.Size = new Size(33, 23);
             param_c3.TabIndex = 8;
-            param_c3.TextChanged += param_c3_TextChanged;
             // 
             // param_z3
             // 
@@ -140,7 +131,6 @@
             param_z3.Name = "param_z3";
             param_z3.Size = new Size(33, 23);
             param_z3.TabIndex = 9;
-            param_z3.TextChanged += param_z3_TextChanged;
             // 
             // param_y3
             // 
@@ -148,7 +138,6 @@
             param_y3.Name = "param_y3";
             param_y3.Size = new Size(33, 23);
             param_y3.TabIndex = 10;
-            param_y3.TextChanged += param_y3_TextChanged;
             // 
             // param_x3
             // 
@@ -156,7 +145,6 @@
             param_x3.Name = "param_x3";
             param_x3.Size = new Size(33, 23);
             param_x3.TabIndex = 11;
-            param_x3.TextChanged += param_x3_TextChanged;
             // 
             // label1
             // 
@@ -293,47 +281,43 @@
             param__D.BorderStyle = BorderStyle.FixedSingle;
             param__D.Location = new Point(370, 151);
             param__D.Name = "param__D";
-            param__D.Size = new Size(46, 23);
+            param__D.Size = new Size(67, 23);
             param__D.TabIndex = 25;
             param__D.Text = "D =";
-            param__D.TextChanged += param__D_TextChanged;
             // 
             // param_Nx
             // 
             param_Nx.BorderStyle = BorderStyle.FixedSingle;
             param_Nx.Location = new Point(370, 12);
             param_Nx.Name = "param_Nx";
-            param_Nx.Size = new Size(46, 23);
+            param_Nx.Size = new Size(67, 23);
             param_Nx.TabIndex = 26;
             param_Nx.Text = "Nx =";
-            param_Nx.TextChanged += param_Nx_TextChanged;
             // 
             // param_Ny
             // 
             param_Ny.BorderStyle = BorderStyle.FixedSingle;
             param_Ny.Location = new Point(370, 59);
             param_Ny.Name = "param_Ny";
-            param_Ny.Size = new Size(46, 23);
+            param_Ny.Size = new Size(67, 23);
             param_Ny.TabIndex = 27;
             param_Ny.Text = "Ny =";
-            param_Ny.TextChanged += param_Ny_TextChanged;
             // 
             // param_Nz
             // 
             param_Nz.BorderStyle = BorderStyle.FixedSingle;
             param_Nz.Location = new Point(370, 103);
             param_Nz.Name = "param_Nz";
-            param_Nz.Size = new Size(46, 23);
+            param_Nz.Size = new Size(67, 23);
             param_Nz.TabIndex = 28;
             param_Nz.Text = "Nz =";
-            param_Nz.TextChanged += param_Nz_TextChanged;
             // 
             // param_X
             // 
             param_X.BorderStyle = BorderStyle.FixedSingle;
-            param_X.Location = new Point(439, 12);
+            param_X.Location = new Point(459, 13);
             param_X.Name = "param_X";
-            param_X.Size = new Size(46, 23);
+            param_X.Size = new Size(67, 23);
             param_X.TabIndex = 29;
             param_X.Text = "X =";
             param_X.TextChanged += param_X_TextChanged;
@@ -341,9 +325,9 @@
             // param_Y
             // 
             param_Y.BorderStyle = BorderStyle.FixedSingle;
-            param_Y.Location = new Point(439, 59);
+            param_Y.Location = new Point(459, 60);
             param_Y.Name = "param_Y";
-            param_Y.Size = new Size(46, 23);
+            param_Y.Size = new Size(67, 23);
             param_Y.TabIndex = 30;
             param_Y.Text = "Y =";
             param_Y.TextChanged += param_Y_TextChanged;
@@ -351,9 +335,9 @@
             // param_Z
             // 
             param_Z.BorderStyle = BorderStyle.FixedSingle;
-            param_Z.Location = new Point(439, 103);
+            param_Z.Location = new Point(459, 104);
             param_Z.Name = "param_Z";
-            param_Z.Size = new Size(46, 23);
+            param_Z.Size = new Size(67, 23);
             param_Z.TabIndex = 31;
             param_Z.Text = "Z =";
             param_Z.TextChanged += param_Z_TextChanged;
@@ -363,7 +347,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.DarkGray;
-            ClientSize = new Size(508, 203);
+            ClientSize = new Size(556, 204);
             Controls.Add(param_Z);
             Controls.Add(param_Y);
             Controls.Add(param_X);
